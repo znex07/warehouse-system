@@ -1,0 +1,14 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+body
+{
+    background-image: url('/img/CAF-Blog-What-Is-Freight-Forwarding.jpg');
+    background-color: none !important;
+}
